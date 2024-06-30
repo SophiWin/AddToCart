@@ -1,0 +1,48 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "title": "Davidson",
+      "description": "best medicine book",
+      "price": 10000,
+      "category": "medicine",
+      "cover": "https://edit.org/images/cat/book-covers-big-2019101610.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "2",
+      "title": "Bailey & Love",
+      "description": "best surgery book",
+      "price": 20000,
+      "category": "surgery",
+      "cover": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/ftmxtt6u255eeaayfxsg/creative-design-book-cover-social-media-design.png",
+      "quantity": 1
+    },
+    {
+      "id": "3",
+      "title": "Child 10th edition",
+      "description": "best Child book ever",
+      "category": "child",
+      "price": 50000,
+      "cover": "https://marketplace.canva.com/EAFf0E5urqk/1/0/1003w/canva-blue-and-green-surreal-fiction-book-cover-53S3IzrNxvY.jpg",
+      "quantity": 1
+    },
+    {
+      "id": "2cb9",
+      "title": "Love",
+      "description": "Love is a set of emotions and behaviors characterized by intimacy, passion, and commitment.",
+      "category": "friction",
+      "price": 30000,
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXdf8fU-4s_Rf7oXsnskAK67WxKqTBiaUpw&s"
+    },
+    {
+      "id": "e7c3",
+      "title": "Empathy",
+      "description": "Empathy is the ability to see things from another's perspective and feel their emotions.",
+      "category": "Novel",
+      "price": "60000",
+      "cover": "https://m.media-amazon.com/images/I/61tMzVHKldL._AC_UF1000,1000_QL80_.jpg",
+      "quantity": 1
+    }
+  ]
+}
